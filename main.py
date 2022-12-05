@@ -1,3 +1,4 @@
+#BY: EDUARDX-2
 try:
 
   import requests, signal
